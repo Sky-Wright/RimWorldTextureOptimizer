@@ -9,7 +9,7 @@
 - **Safe Backups**: Automatic backup system with easy restore functionality
 - **Real-time Progress**: Live progress tracking with ETA display
 - **Cancellation Support**: Stop conversion safely at any time
-- **Standalone**: Single executable
+- **Easy to Use**: Single executable
 
 ## Requirements
 
