@@ -3,7 +3,7 @@
 ## Features
 
 - **Universal Compatibility**: Works with any graphics card (NVIDIA, AMD, Intel Arc)
-- **High Performance**: Processes 80,000+ textures in ~1 hour
+- **High Performance**: Uses NVTT 3 for well optimized conversion
 - **Intelligent Upscaling**: Automatically upscales textures smaller than 256x256 to meet RimWorld standards
 - **Background Operation**: No annoying popup windows, runs silently in background
 - **Safe Backups**: Automatic backup system with easy restore functionality
